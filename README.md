@@ -90,7 +90,7 @@ FUTURE_FS_02
 ├── style.css
 ├── script.js
 ├── README.md
-└── screenshots
+
 ```
 
 
